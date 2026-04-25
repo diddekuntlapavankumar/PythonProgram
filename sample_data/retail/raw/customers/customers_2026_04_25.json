@@ -1,0 +1,3 @@
+{"customer_id":"C001","first_name":"Asha","last_name":"Reddy","email":"asha.reddy@example.com","loyalty_tier":"gold","signup_date":"2025-01-12"}
+{"customer_id":"C002","first_name":"Rahul","last_name":"Mehta","email":"rahul.mehta@example.com","loyalty_tier":"silver","signup_date":"2025-03-18"}
+{"customer_id":"C003","first_name":"Neha","last_name":"Sharma","email":"neha.sharma@example.com","loyalty_tier":"bronze","signup_date":"2025-06-02"}

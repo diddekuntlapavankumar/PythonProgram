@@ -1,0 +1,4 @@
+{"order_item_id":"OI1001","order_id":"O1001","product_id":"P001","quantity":2,"unit_price":18.99,"discount_amount":1.00}
+{"order_item_id":"OI1002","order_id":"O1001","product_id":"P003","quantity":1,"unit_price":45.00,"discount_amount":5.00}
+{"order_item_id":"OI1003","order_id":"O1002","product_id":"P002","quantity":3,"unit_price":12.50,"discount_amount":0.00}
+{"order_item_id":"OI1004","order_id":"O1003","product_id":"P001","quantity":1,"unit_price":18.99,"discount_amount":0.00}
