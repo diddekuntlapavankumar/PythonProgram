@@ -1,0 +1,15 @@
+resources:
+  pipelines:
+    retail_medallion_pipeline:
+      name: retail-medallion-dlt
+      catalog: main
+      target: retail_medallion
+      development: true
+      continuous: false
+      channel: CURRENT
+      photon: true
+      libraries:
+        - file:
+            path: ../dlt_pipelines/retail_medallion_pipeline.py
+      configuration:
+        retail.data_root: /Volumes/main/retail/raw
